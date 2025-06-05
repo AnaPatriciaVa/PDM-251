@@ -1,0 +1,40 @@
+{
+  "codigo": "PDV007",
+  "data": "2025-06-05T19:03:11.573065",
+  "valorPedido": 1650.0,
+  "cliente": {
+    "codigo": 7,
+    "nome": "Carlos Menezes",
+    "tipoCliente": 1
+  },
+  "vendedor": {
+    "codigo": 3,
+    "nome": "Fernanda Lima",
+    "comissao": 7.0
+  },
+  "veiculo": {
+    "codigo": 204,
+    "descricao": "SUV 2.0 Automático",
+    "valor": 98500.0
+  },
+  "itens": [
+    {
+      "sequencial": 1,
+      "descricao": "Engate para reboque",
+      "quantidade": 1,
+      "valor": 800.0
+    },
+    {
+      "sequencial": 2,
+      "descricao": "Película de segurança",
+      "quantidade": 1,
+      "valor": 500.0
+    },
+    {
+      "sequencial": 3,
+      "descricao": "Tapete de borracha",
+      "quantidade": 1,
+      "valor": 350.0
+    }
+  ]
+}
